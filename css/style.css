@@ -428,3 +428,6 @@ body {
   display: flex;
   align-items: baseline;
 }
+.footer-logo-container {
+  margin-right: 120px;
+}
