@@ -424,7 +424,7 @@ body {
 .footer-socials-icon {
   fill: #f4f4fd;
 }
-.footer-general-coontainer {
+.footer-container {
   display: flex;
   align-items: baseline;
 }
