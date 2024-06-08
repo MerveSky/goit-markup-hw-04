@@ -424,3 +424,7 @@ body {
 .footer-socials-icon {
   fill: #f4f4fd;
 }
+.footer-general-coontainer {
+  display: flex;
+  align-items: baseline;
+}
